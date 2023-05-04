@@ -1,3 +1,8 @@
+Application developed using React JS and Django 
+
+Check the backend branch for backend code
+
+
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/121887448/236305302-952a2e9e-33cf-4d79-8bf8-f30d2c0df01c.png">
 
 
@@ -8,9 +13,9 @@
 
 <img width="958" alt="image" src="https://user-images.githubusercontent.com/121887448/236305649-81b50664-5cd3-46c1-a3a4-511833669fe6.png">
 
+<img width="955" alt="image" src="https://user-images.githubusercontent.com/121887448/236306293-ecc05f0e-3e77-4837-8901-7341f542069a.png">
 
-
-
+<img width="955" alt="image" src="https://user-images.githubusercontent.com/121887448/236306293-ecc05f0e-3e77-4837-8901-7341f542069a.png">
 
 
 # Getting Started with Create React App
